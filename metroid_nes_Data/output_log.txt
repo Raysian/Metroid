@@ -1,0 +1,79 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6700M Series (ID=0x6740)
+    Vendor:   ATI
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.087 seconds
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\RayDai\Documents\New Unity Project 1\metroid\metroid_nes_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.113523 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 9598 -> priority: 1 
+  Thread -> id: b514 -> priority: 1 
+I'm on customLevel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I'm on level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I'm on customLevel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I'm on level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I'm on customLevel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I'm on level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533670 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3247.
+Total: 2.806387 ms (FindLiveObjects: 0.229375 ms CreateObjectMapping: 0.091339 ms MarkObjects: 0.633220 ms  DeleteObjects: 1.850912 ms)
+
+0.9864553
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.04153883
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.5684705
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.08965158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.6584666
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
